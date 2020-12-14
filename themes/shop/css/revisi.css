@@ -1,0 +1,28 @@
+.grosir{
+    border-left: 1px solid #C4C4C4;
+    margin-left: 10px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.harga-grosir{
+    color: #C4C4C4;
+}
+
+.keterangan-quantity{
+    font-size: 12px;
+    color: #C4C4C4;
+    display: block;
+}
+
+/* Estimasi Pre-order text */
+.estimasi-preorder{
+    font-size: 14px;
+    color: #FF3D00;
+}
+
+
+.status-toko {
+    flex-basis: initial!important;
+}
